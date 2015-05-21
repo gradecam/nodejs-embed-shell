@@ -7,12 +7,12 @@
   "main": "index.js",
   "author": "Jarom Loveridge",
   "license": "MIT",
-  "keywords": {
+  "keywords": [
       "repl",
       "shell",
       "deferred",
       "promise"
-  },
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/gradecam/nodejs-embed-shell.git"
