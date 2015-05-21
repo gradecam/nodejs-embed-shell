@@ -1,4 +1,4 @@
 /* jshint node:true, unused: true */
 'use strict';
 
-module.exports = require(__dirname, '/lib/embed-shell');
+module.exports = require(__dirname + '/lib/embed-shell');
