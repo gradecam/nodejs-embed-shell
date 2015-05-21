@@ -1,9 +1,6 @@
 {
   "name": "embed-shell",
   "version": "0.0.4",
-  "scripts": [
-      "bin/shell.js"
-  ],
   "main": "index.js",
   "author": "Jarom Loveridge",
   "license": "MIT",
