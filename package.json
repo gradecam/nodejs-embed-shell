@@ -1,14 +1,14 @@
 {
   "name": "embed-shell",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "index.js",
   "author": "Jarom Loveridge",
   "license": "MIT",
   "keywords": [
-      "repl",
-      "shell",
-      "deferred",
-      "promise"
+    "repl",
+    "shell",
+    "deferred",
+    "promise"
   ],
   "repository": {
     "type": "git",
