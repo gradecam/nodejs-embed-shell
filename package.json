@@ -15,10 +15,10 @@
     "url": "https://github.com/gradecam/nodejs-embed-shell.git"
   },
   "dependencies": {
-    "lodash": "^3.9.1",
-    "q": "^1.4.1"
+    "lodash": "^4.17.11",
+    "q": "^1.5.1"
   },
   "devDependencies": {
-    "commander": "^2.3.0"
+    "commander": "^2.19.0"
   }
 }
